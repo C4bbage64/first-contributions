@@ -2,6 +2,7 @@
 - [wpa](https://github.com/waiphyo111000)
 - [Bishal Khadka](https://github.com/bkhadka2)
 - [Cannon Hutcheson]
+- [Sebastian Obando](https://github.com/sebas2002cr)
 - [Matt Palmer](https://github.com/this-is-matt)
 - [TKO(https://github.com/2-lazyyyy)
 - [Abhinav](https://github.com/Abhinav1326)
@@ -11,6 +12,7 @@
 - [Kashvi Jain](https://github.com/kashvi0/)
 - [Kushagra Jain](https://github.com/kushagrajain7)
 - [Chanin L](https://github.com/chaninlaw)
+- [Abdurahman Mahammedsied](https://github.com/amirasabdu)
 - [Thar Sein Oo](https://github.com/tharseinooMM)
 - [Ryan Frederich](http://github.com/ryansurf)
 - [Capra94] (http://github.com/Capra94)
@@ -24,6 +26,7 @@
 - Kristen McDonald
 - [Bogdan Nuzhnyy] (https://github.com/bognuz)
 -ESWAR KALWA
+- [Abhijeet Prajapati](https://github.com/Abhi-P-0)
 - [Jordan Brown](https://github.com/jbrown307)
 - [Laura Barauna](https://github.com/LauraBarauna)
 - [Mario Lisbona](https://github.com/MarioLisbona/)
@@ -49,6 +52,7 @@ wobuxinnihuiwuliaodeduwanwodemingzi
 git add Contributors.md# Contributors
 
 111111111111111111111111111111111
+- [iv660](https://github.com/iv660)
 - Kevin Liu
 - goodCircle
 - [Vikas Kumar](https://github.com/vikaskumar168)
@@ -78,6 +82,7 @@ git add Contributors.md# Contributors
 - [Shrijan](https://github.com/shrijxn)
 - jsuto
 - Justin Hosfeld
+- VakoB
 - Mi Nguyen
 - A. Mishra
 - [Faysal Hasan](https://github.com/mollik001)
@@ -4032,9 +4037,12 @@ guanj65
 - [Dimitrios Tikvinas] (YEAHHHHHHHHH BUDDYYYYYYYYYYYYY)
 - [Mihir Lad] (Maverick)
 - [tutula](smooth operator)
+- [Albert Ngoudjou](https://github.com/angoudjou)
 - [__Chisato__](https://github.com/chisato2233)
+- [Keith Pryor]https://github.com/pryorka82/
 - [harleny angellica](https://github.com/Angelicahaas)
 - [Erick Miranda Santos](https://github.com/Erick-ems)
+- [Jishnu K B] (https://github.com/Jishnu-k-b)
 -_[Pedro Braga](https://github.com/Stain19)
 - [Vinicius Vieira](https://github.com/viniciusvieira00)
 - [Felipe de Sousa](https://github.com/fsousac)
