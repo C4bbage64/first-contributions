@@ -4,6 +4,7 @@
 - [Cannon Hutcheson]
 - [Sebastian Obando](https://github.com/sebas2002cr)
 - [Matt Palmer](https://github.com/this-is-matt)
+- [mr-xcode](https://github.com/mr-xcode)
 - [TKO(https://github.com/2-lazyyyy)
 - [Abhinav](https://github.com/Abhinav1326)
 - [Jordan K](https://marinersjk00)
@@ -115,6 +116,7 @@ git add Contributors.md# Contributors
 - [Jose Aliaga](https://github.com/metalargento)
 - [Ratnesh Rastogi] (https://github.com/TheYorouzoya)
 - [Pablo Andujar](https://github.com/pabloandujar-bahia)
+- [Jayesh Chouhan](https://github.com/jayesh-xyz)
 - Jack Youssef
 - Brooke Smith
 Sam Barns
@@ -238,6 +240,7 @@ Kayla Barton
 - [ash-tise](https://github.com/ash-tise)
 - [Dennis Witnauer](https://github.com/witnauer)
 - [Will](https://github.com/WillTheCodeWork)
+- [Lovis Tawiah](https://github.com/lovistawiah)
 - [Kunal Tyagi](https://github.com/tykunal)
 - [Moslem Ajra](https://github.com/moslemajra85)
 - [Hari Kishore Sepuri](https://github.com/HK-Sepuri)
@@ -1431,6 +1434,7 @@ Jasmine
 - [WHA](https://github.com/wynehtetaung)
 - [Captain] (https://github.com/CaptainPatel)
 - [Ishita](https://github.com/elekish)
+- [ykeissar] (https://github.com/ykeissar)
 - [Michael](https://github.com/LucidWinter)
 - [Phillip](gttps://github.com/PhillipSom)
 - [Nik Zulfauzaan](https://github.com/nickzulfauzaan)
